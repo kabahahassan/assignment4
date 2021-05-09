@@ -11,7 +11,7 @@
 Deploy a WordPress Application on a new AWS VPC, using Terraform: 
 
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/kabahahassan/assignment4/blob/main/Screen%20Shot%202021-05-09%20at%2014.37.05.png?raw=true)
 
 
 
